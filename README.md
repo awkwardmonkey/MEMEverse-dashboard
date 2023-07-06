@@ -26,7 +26,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Docker
-This creates a docker image called `meme-verse-dashboard` that can be used with docker-compose at `memeland-domain-server-docker`. This image also can be used for development purposes.
+This creates a docker image called `memeverse-dashboard` that can be used with docker-compose at `memeland-domain-server-docker`. This image also can be used for development purposes.
 
 ### docker Build
 In order to build, go to the `docker` dir and execute the build script.
